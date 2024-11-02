@@ -1,0 +1,80 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Fondo claro para contraste */
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    background-color: #003366; /* Azul fuerte */
+    color: #ffffff; /* Blanco */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header .empresa-logo {
+    width: 150px;
+    margin-top: 10px;
+}
+
+/* Sección de presentación */
+main .presentation {
+    padding: 20px;
+    background-color: #ffffff; /* Blanco */
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+main .presentation h2 {
+    color: #003366; /* Azul fuerte */
+}
+
+main .presentation p {
+    color: #333333;
+}
+
+/* Navegación */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #003366; /* Azul fuerte */
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #ff0000; /* Rojo */
+    color: #ffffff; /* Blanco */
+}
+
+/* Pie de página */
+footer {
+    background-color: #003366; /* Azul fuerte */
+    color: #ffffff; /* Blanco */
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
