@@ -13,8 +13,9 @@
     </header>
     <main>
         <section class="presentation">
-            <h2>Presentación</h2>
-            <p>Bienvenidos a la Empresa KNQ. Somos líderes en el sector de transporte de personal.</p>
+            <h2>Bienvenido a KNQ</h2>
+
+            <p>Somos una empresa orgullosamente Mexicana especializada en Transporte de personal.</p>
         </section>
         <nav>
             <ul>
