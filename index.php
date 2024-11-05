@@ -12,7 +12,7 @@
     <header>
         <div class="header-content">
             <img src="asset/knqlogo.jpg" alt="Imagen de la Empresa KNQ" class="empresa-logo">
-            <h1>Bienvenidos a Empresa de Transporte De Personal Kin Q</h1>
+            <h1>Bienvenidos a Empresa de Transporte De Personal KNQ</h1>
             <nav>
                 <ul>
                     <li><a href="index.php">Inicio</a></li>
