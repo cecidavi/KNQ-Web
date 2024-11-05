@@ -1,11 +1,14 @@
 /* Estilos generales */
 body {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f4f4f4; /* Fondo claro */
+    background-image: url('../asset/KNQ-2024-01.png'); /* Ajusta la ruta según sea necesario */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-position: center; /* Centra la imagen en el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
     color: #333;
-    line-height: 1.6;
 }
 
 /* Animaciones */
