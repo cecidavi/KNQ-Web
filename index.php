@@ -16,8 +16,8 @@
             <nav>
                 <ul>
                     <li><a href="index.php">Inicio</a></li>
-                    <li><a href="informacion.jsp">Información</a></li>
-                    <li><a href="contacto.jsp">Contáctanos</a></li>
+                    <li><a href="informacion.php">Información</a></li>
+                    <li><a href="contacto.php">Contáctanos</a></li>
                 </ul>
             </nav>
         </div>
