@@ -10,7 +10,7 @@
     <header>
         <div class="header-content">
             <img src="asset/knqlogo.jpg" alt="Imagen de la Empresa KNQ" class="empresa-logo">
-            <h1>Quieres saber como contratarnos</h1>
+            <h1>Contacta con nosotros</h1>
             <nav>
                 <ul>
                     <li><a href="index.php">Inicio</a></li>
@@ -21,9 +21,9 @@
         </div>
     </header>
     <main>
-        <section class="presentation">
-            <h2>Buscas empleo o más información?</h2>
-            <p>Por favor, completa el siguiente formulario para ponerte en contacto con nosotros.</p>
+        <section class="contact-info">
+            <h2>Estamos aquí para ayudarte</h2>
+            <p>Si tienes alguna pregunta, necesitas más información o deseas contratar nuestros servicios, por favor completa el siguiente formulario para ponerte en contacto con nosotros.</p>
             <!-- Formulario de contacto -->
             <div class="form-container">
                 <h2>Formulario de contacto</h2>
@@ -45,5 +45,8 @@
             </div>
         </section>
     </main>
+    <footer>
+        <p>&copy; 2024 Empresa KNQ</p>
+    </footer>
 </body>
 </html>

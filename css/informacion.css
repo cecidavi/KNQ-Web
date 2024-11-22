@@ -1,0 +1,120 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: #003366; /* Azul fuerte */
+    color: #ffffff; /* Blanco */
+    padding: 20px 0;
+    text-align: center;
+}
+
+.header-content {
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.empresa-logo {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+    font-size: 2.2em;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff; /* Blanco */
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Rojo */
+}
+
+/* Main Content Styles */
+main {
+    max-width: 1100px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    font-size: 1.8em;
+    color: #003366; /* Azul fuerte */
+    margin-bottom: 10px;
+}
+
+section p, section ul {
+    font-size: 1.1em;
+}
+
+section ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+section ul li {
+    margin-bottom: 10px;
+}
+
+blockquote {
+    font-style: italic;
+    background-color: #e0e0e0;
+    padding: 10px 20px;
+    border-left: 5px solid #003366; /* Azul fuerte */
+    margin: 20px 0;
+}
+
+blockquote footer {
+    text-align: right;
+    font-size: 0.9em;
+    color: #666666;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #003366; /* Azul fuerte */
+    color: #ffffff; /* Blanco */
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1em;
+}

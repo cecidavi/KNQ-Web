@@ -61,7 +61,8 @@
         </section>
         <section class="location">
             <h2>Ubicación</h2>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1178.4431192014692!2d-100.95341363570226!3d25.5300931426356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8688130002141e3f%3A0x8786059ace54d4ca!2sTRANSPORTES%20KNQ!5e1!3m2!1ses-419!2smx!4v1731528503323!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </section>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1178.4431192014692!2d-100.95341363570226!3d25.5300931426356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8688130002141e3f%3A0x8786059ace54d4ca!2sTRANSPORTES%20KNQ!5e1!3m2!1ses-419!2smx!4v1731528503323!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
     </main>
     <footer>
         <p>&copy; 2024 Empresa KNQ</p>
