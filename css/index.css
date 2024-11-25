@@ -4,10 +4,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4; /* Fondo claro */
-    background-image: url('../asset/KNQ-2024-01.png'); /* Ajusta la ruta según sea necesario */
-    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
-    background-position: center; /* Centra la imagen en el fondo */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
     color: #333;
 }
 
@@ -232,6 +228,50 @@ main .technology .cta-button:hover {
     background-color: #ff0000;
 }
 
+/* Seguridad y Valores */
+main .safety {
+    padding: 20px;
+    background-color: #e9f1f7;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+main .safety h2 {
+    color: #003366;
+    margin-bottom: 15px;
+}
+
+main .safety p {
+    color: #333333;
+    font-size: 1.1em;
+}
+
+/* Equipo */
+main .team {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+main .team h2 {
+    color: #003366;
+    margin-bottom: 15px;
+}
+
+main .team p {
+    color: #333333;
+    font-size: 1.1em;
+}
+
 /* Ubicación */
 main .location {
     padding: 20px;
@@ -251,6 +291,43 @@ main .location iframe {
     height: 450px;
     border: none;
     border-radius: 10px;
+}
+
+/* Contacto */
+main .contact {
+    padding: 20px;
+    background-color: #e9f1f7;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+main .contact h2 {
+    color: #003366;
+    margin-bottom: 15px;
+}
+
+main .contact p {
+    color: #333333;
+    font-size: 1.1em;
+}
+
+main .contact .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #003366;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+main .contact .cta-button:hover {
+    background-color: #ff0000;
 }
 
 /* Pie de página */
