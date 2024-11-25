@@ -25,7 +25,8 @@
     <main>
         <section class="presentation">
             <h2>Bienvenido a KNQ</h2>
-            <p>Somos una empresa orgullosamente Mexicana especializada en Transporte de personal.</p>
+            <p>Somos una empresa orgullosamente mexicana especializada en transporte de personal con 31 años de experiencia ofreciendo un servicio de calidad y valores institucionales.</p>
+            <p><a href="informacion.php">Conoce más sobre nosotros</a></p>
         </section>
         <section class="services">
             <h2>Nuestros Servicios</h2>
@@ -44,6 +45,7 @@
                 <h3>Puntualidad Garantizada</h3>
                 <p>Nuestro compromiso es garantizar la puntualidad en todos nuestros servicios.</p>
             </div>
+            <p><a href="informacion.php#services">Ver más detalles</a></p>
         </section>
         <section class="testimonials">
             <h2>Testimonios de Clientes</h2>

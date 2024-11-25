@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4; /* Fondo claro */
@@ -146,6 +146,21 @@ main .services .service p {
     font-size: 1em;
 }
 
+main .services .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #003366;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+main .services .cta-button:hover {
+    background-color: #ff0000;
+}
+
 /* Testimonios */
 main .testimonials {
     margin: 20px auto;
@@ -178,6 +193,43 @@ main .testimonials .testimonial {
 main .testimonials .testimonial p {
     font-size: 1em;
     color: #333333;
+}
+
+/* Tecnología */
+main .technology {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+main .technology h2 {
+    color: #003366;
+    margin-bottom: 15px;
+}
+
+main .technology p {
+    color: #333333;
+    font-size: 1.1em;
+}
+
+main .technology .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #003366;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+main .technology .cta-button:hover {
+    background-color: #ff0000;
 }
 
 /* Ubicación */
